@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kingsley Chibogu
+- 👋 Hi, I’m Kingsley Kelechi Chibogu
 - 👀 I’m interested in Software Engineering( Front-End-Development)
 - 🌱 I’m currently learning HTML, CSS, AND JS
 - 💞️ I’m looking to collaborate on a real-world project/internship
